@@ -21,7 +21,7 @@ export default function AccountOpenedPage() {
           </CardHeader>
           <CardContent>
             <p className="text-center mb-4">
-              Your account number is: <strong>1234567890</strong>
+              Your account number is: <strong>98084560</strong>
             </p>
             <p className="text-center">
               Please check your email for more instructions on how to access your new account.
